@@ -1,1 +1,1 @@
-/root/alx-system_engineering-devops  
+Emacs is kind of hard but its awesome 
